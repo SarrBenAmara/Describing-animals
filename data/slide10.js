@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{44C6F1D3-1C1D-4CC1-84AB-F03014F24981}'];loadHandler&&loadHandler(9, '<div id="spr0_3af003"><div id="spr1_3af003" class="kern slide"><img id="img4_3af003" src="data/img17.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_3af003" style="left:671.125px;top:487.875px;"><img id="img0_3af003" src="data/img0.png" width="42" height="40" alt="" style="left:1.187px;top:2.875px;"/></div></div><div id="spr2_3af003" class="kern slide"><div id="spr4_3af003" style="left:240.946px;top:158.233px;"><img id="img1_3af003" src="data/img15.png" width="314" height="396" alt="A picture containing dark\
+\
+Description automatically generated" style="left:0.008px;top:-0px;"/></div><div id="spr5_3af003" style="left:656.372px;top:398.567px;"><img id="img2_3af003" src="data/img2.png" width="89" height="141" alt="A picture containing logo\
+\
+Description automatically generated" style="left:-0.128px;top:0.217px;"/></div><div id="spr6_3af003" style="left:155px;top:109px;"><img id="img3_3af003" src="data/img16.png" width="456" height="43" alt="See You next Class"/></div></div></div>', '{"s":[]}');})();
